@@ -1,0 +1,457 @@
+[
+    {
+        "name": "Ooty Botanical Gardens",
+        "location": "Vannarapettai, Ooty, Tamil Nadu",
+        "timings": "7:00 AM - 6:30 PM, Monday to Sunday",
+        "entryFees": {
+            "adults": "30 INR",
+            "children": "15 INR",
+            "stillCamera": "50 INR",
+            "videoCamera": "100 INR"
+        },
+        "activities": "Nature walks, Photography, Flower Show (May)",
+        "highlights": [
+            "Terraced layout with more than 650 species",
+            "Italian Garden laid by WWI Italian prisoners",
+            "Fossilized tree trunk estimated to be 20 million years old",
+            "Conservatory with various flowering plants",
+            "Nurseries for exotic plants"
+        ],
+        "distanceFromHotel": "3 km",
+        "restrictedItems": "Tobacco, alcohol, plastic bags",
+        "bestTimeToVisit": "April, May & September",
+        "annualVisitors": "At least 1.5 lakh during the Flower Show",
+        "design": [
+            "Lower Garden: Featuring a map of India with plants and a 20 million-year-old fossil trunk.",
+            "New Garden: Houses a rose garden with various hybrid roses.",
+            "Italian Garden: Perennial flowers and a typical Italian layout.",
+            "The Conservatory: Classifies flowering plants.",
+            "Nurseries: Breeds exotic plants with glass houses."
+        ]
+    },
+    {
+        "name": "Ooty Rose Garden",
+        "latitude": "11.4102",
+        "longitude": "76.7074",
+        "timings": "7:00 AM - 6:30 PM, Monday to Sunday",
+        "entryFees": {
+            "adults": "30 INR",
+            "children": "15 INR",
+            "stillCamera": "50 INR",
+            "videoCamera": "100 INR"
+        },
+        "activities": "Exploring various rose species, Photography, Observing the Flower Show in May",
+        "highlights": [
+            "Home to over 20,000 varieties of roses including Hybrid Tea Roses, Floribunda, and Miniature Roses.",
+            "Awarded as the \u2018Garden of Excellence\u2019 by the World Federation of Rose Societies.",
+            "Features terraces adorned with rose shrubs and other flowering plants."
+        ],
+        "bestTimeToVisit": "March to June for the full bloom and May for the Flower Show",
+        "tips": [
+            "Parking space available.",
+            "Unexpected rains common, carrying an umbrella recommended.",
+            "Picking flowers is restricted."
+        ]
+    },
+    {
+        "name": "Nilgiri Mountain Railway",
+        "latitude": "11.3458",
+        "longitude": "76.7951",
+        "timings": "First train from Mettupalayam at 7:10 AM, Last train from Ooty at 2:00 PM",
+        "entryFees": {
+            "firstClassMettupalayamToOoty": "205 INR",
+            "secondClass": "30 INR",
+            "unreserved": "15 INR",
+            "firstClassCoonoorToOoty": "140 INR",
+            "secondClassCoonoorToOoty": "25 INR"
+        },
+        "activities": "Scenic train ride through Nilgiri Hills, Experience heritage steam locomotives, Explore stations like Coonoor, Wellington, Lovedale",
+        "highlights": [
+            "UNESCO World Heritage Site",
+            "Operates on a unique rack and pinion system",
+            "Covers Mettupalayam, Kellar, Coonoor, Wellington, Lovedale, and Ootacamund",
+            "Passes through 16 tunnels, 208 curves, and 250 bridges",
+            "Offers spectacular views of tea plantations, forests, and Nilgiri Hills"
+        ],
+        "bestTimeToVisit": "Winter & early summer",
+        "tips": [
+            "Book tickets in advance especially during peak season",
+            "No washrooms on the train, plan accordingly",
+            "Follow all guidelines provided by the railway authority"
+        ]
+    },
+    {
+        "name": "Tamilnadu Tourism Boat House",
+        "latitude": "11.4118",
+        "longitude": "76.6950",
+        "timings": "8:00 AM - 5:30 PM",
+        "entryFees": {
+            "Indians": "15 INR",
+            "Foreigners": "560 INR",
+            "StillCamera": "50 INR",
+            "VideoCamera": "150 INR"
+        },
+        "activities": [
+            "Boating with options like pedal boats, rowboats, motorboats",
+            "Mini garden with amusement park for children",
+            "Toy train rides",
+            "7D cinema, horror house, mirror house, Columbus ride, and dashing cars"
+        ],
+        "highlights": [
+            "Situated approximately 1km from the bus station and railway station",
+            "Constructed by John Sullivan in 1824",
+            "Covers an area of 65 acres",
+            "Operated by Tamil Nadu Tourism Development Corporation since 1973"
+        ],
+        "boatingCharges": {
+            "2SeatedPedalBoats": "170 INR",
+            "2SeatedRowBoats": "180 INR",
+            "4SeatedPedalBoat": "260 INR",
+            "8SeatedMotorBoats": "450 INR"
+        },
+        "bestTimeToVisit": "October to June"
+    },
+    {
+        "name": "Mudumalai Tiger Reserve",
+        "location": "NH 67, Gudalur, Devarshola, Tamil Nadu, 643223, India",
+        "latitude": "11.5500",
+        "longitude": "76.5133",
+        "timings": "6:00 AM - 6:00 PM",
+        "entryFees": {
+            "adults": "30 INR",
+            "children": "Not specified",
+            "stillCamera": "53 INR",
+            "videoCamera": "315 INR",
+            "busSafari": "340 INR per person",
+            "jeepSafari": "4200 INR per trip",
+            "elephantSafari": "1120 INR per trip"
+        },
+        "activities": [
+            "Safari rides",
+            "Camping",
+            "Hiking",
+            "Bird watching",
+            "Relaxing by the Moyar River"
+        ],
+        "floraFauna": {
+            "flora": "Tropical Moist Deciduous, Tropical Dry Deciduous and Southern Tropical Thorn forest",
+            "fauna": "Tigers, Dhole, Asian Elephant, Gaur, Sambar, Spotted Deer, Indian Muntjac, Mouse Deer, Wild Boar, Leopard, Striped Hyena, Jackal, Sloth Bear, Bonnet Macaque, Langur, Giant Squirrel, Flying Squirrel, and over 227 species of birds"
+        },
+        "bestTimeToVisit": "February to May and September to October",
+        "howToReach": {
+            "byAir": "Coimbatore Airport at Peelamedu (86.4 km away)",
+            "byRoad": "Mysore-Ooty road, 87 km from Mysore and 45 km from Ooty",
+            "byTrain": "Udagamandalam (Ooty) railway station (90 km away)",
+            "byCabTaxi": "Cab from nearby cities, Price: INR 2800 approximately"
+        },
+        "nearbyPlaces": [
+            "Needle Rock View Point",
+            "Pykara Lake",
+            "Wenlock Downs",
+            "Pine Tree Forests",
+            "Tea Estate View Point"
+        ]
+    },
+    {
+        "name": "Elk Hill Murugan Temple",
+        "latitude": "11.4118",
+        "longitude": "76.6933",
+        "timings": "9:00 AM - 6:00 PM",
+        "entryFee": "No entry fee",
+        "activities": [
+            "Worship",
+            "Sightseeing",
+            "Meditation and Yoga practices"
+        ],
+        "highlights": [
+            "Situated atop Elk Hill amidst picturesque backdrops",
+            "Houses a 40 feet tall statue of Lord Muruga",
+            "Ideal for meditation and yoga practices",
+            "Hosts the festival of Thaipusam with grand processions"
+        ],
+        "howToReach": {
+            "byAir": "Nearest airport is Coimbatore International Airport, 87 km away",
+            "byTrain": "Mettupalayam Railway Station accessible via train, then board the Nilgiri Toy Train",
+            "byBus": "Well connected via government and luxury buses, easy access from Ooty Bus Stand"
+        },
+        "nearbyPlaces": [
+            "Rose Garden",
+            "Ooty Lake",
+            "Doddabetta Peak",
+            "Government Botanical Gardens"
+        ],
+        "festival": "Thaipusam celebrated with processions and offerings to Lord Muruga"
+    },
+    {
+        "name": "Tea Factory & The Tea Museum",
+        "location": "On Doddabetta Road, Ooty",
+        "latitude": "11.4061",
+        "longitude": "76.6937",
+        "timings": "9:00 AM - 5:30 PM",
+        "entryFee": {
+            "Factory": "10 INR",
+            "Museum": "10 INR"
+        },
+        "activities": [
+            "Learning about tea processing",
+            "Exploring tea history",
+            "Tasting cardamom flavoured tea",
+            "Shopping for homemade chocolates and souvenirs"
+        ],
+        "highlights": [
+            "Spread across nearly an acre amidst emerald green tea plants",
+            "Offers insights into the origin and types of tea across the globe",
+            "Features a 40 feet tall statue of Lord Muruga",
+            "Hosts Thaipusam festival with grand processions"
+        ],
+        "howToReach": {
+            "byAir": "Nearest airport is Coimbatore International Airport, 87 km away",
+            "byTrain": "Nearest railway station is Mettupalayam, then board the Nilgiri Toy Train",
+            "byBus": "Well connected via government and luxury buses, easy access from Ooty Bus Stand"
+        },
+        "nearbyPlaces": [
+            "Doddabetta Peak",
+            "Ooty Botanical Garden",
+            "Wenlock Downs",
+            "Pykara Lake and Boat House",
+            "Ooty Toy Train"
+        ]
+    },
+    {
+        "name": "Pykara Waterfalls",
+        "location": "Near Pykara Dam, Ooty, Tamil Nadu",
+        "latitude": "11.4043",
+        "longitude": "76.6950",
+        "timings": "8:30 AM - 5:00 PM daily",
+        "entryFee": "10 INR per person",
+        "activities": [
+            "Sightseeing",
+            "Photography",
+            "Nearby boating at Pykara Lake"
+        ],
+        "highlights": [
+            "Consists of two majestic falls with heights of 55m and 61m",
+            "Surrounded by dense forests and situated downstream of Pykara Dam",
+            "Famous for Toda settlements nearby",
+            "Advised to carry warm clothes even during summer"
+        ],
+        "howToReach": {
+            "byAir": "Nearest airport is Coimbatore, around 116 km away",
+            "byTrain": "Nearest railway station is in Ooty, around 23 km away",
+            "byRoad": "Accessible by bus or cab from Ooty"
+        },
+        "bestTimeToVisit": "Post-monsoon season, avoiding monsoon months due to unpredictable water levels",
+        "nearbyPlaces": [
+            "Pykara Lake",
+            "Pykara Dam & Reservoir",
+            "Doddabetta Peak",
+            "Ooty Botanical Gardens"
+        ]
+    },
+    {
+        "name": "Government Museum",
+        "location": "Mysore road, Ooty, Tamil Nadu, India",
+        "latitude": "11.4102",
+        "longitude": "76.6950",
+        "timings": "10:00 AM - 5:00 PM, Closed on Fridays and Second Saturdays",
+        "entryFee": "Free",
+        "highlights": [
+            "Exhibits include tribal art, sculptures, and ecological details of Tamil Nadu.",
+            "Provides educational insights into the cultures and traditions of the region.",
+            "Hosts items from pre-independence era and artifacts of tribal communities."
+        ],
+        "howToReach": {
+            "byAir": "Nearest airport is Coimbatore International Airport, about 88 km away.",
+            "byTrain": "Ooty Railway Station, accessible by Nilgiri Mountain Railway.",
+            "byRoad": "Well connected via road; buses and taxis available from major cities."
+        },
+        "nearbyPlaces": [
+            "Ooty Lake",
+            "Botanical Gardens",
+            "Doddabetta Peak",
+            "Rose Garden"
+        ]
+    },
+    {
+        "name": "Ketti Valley View Point",
+        "location": "Between Ooty-Coonoor, Nilgiris District, Tamil Nadu, India",
+        "latitude": "11.367",
+        "longitude": "76.733",
+        "timings": "Open 24 hours",
+        "entryFee": "Free",
+        "telescopeFee": "10 INR per person",
+        "activities": [
+            "Sightseeing and Photography",
+            "Exploring nearby attractions such as Sim's Park, Thunder World, and Doddabetta Peak",
+            "Enjoying delicious food at local cafes",
+            "Stargazing",
+            "Exploring the sister lakes - Avalanche & Emerald"
+        ],
+        "highlights": [
+            "Known as the 'Switzerland of the Nilgiris' due to its lush greenery and picturesque landscape",
+            "Offers panoramic views of the largest valley in the Nilgiris and its surroundings",
+            "Home to several tribes, including Todas and Badagas",
+            "Popular among nature lovers and photographers"
+        ],
+        "bestTimeToVisit": "Summer season for a clear and pleasant view of the valley",
+        "howToReach": {
+            "byAir": "Coimbatore International Airport, then local transportation to Ooty",
+            "byRoad": "Well connected via road with local, private, and government buses available",
+            "byTrain": "Mettupalayam Railway Station, then toy train ride or hire a private vehicle to Ooty"
+        },
+        "nearbyPlaces": [
+            "Sim\u2019s Park",
+            "Ooty Lake",
+            "Doddabetta Peak",
+            "Thunder World"
+        ]
+    },
+    {
+        "name": "Doddabetta Peak",
+        "location": "Ooty - Kotagiri Road, Nilgiris District, Tamil Nadu, India",
+        "latitude": "11.3993",
+        "longitude": "76.7337",
+        "timings": "7:00 AM - 6:00 PM daily",
+        "entryFee": {
+            "adults": "10 INR",
+            "childrenBelow5Years": "Free",
+            "camera": "10 INR",
+            "videoCamera": "50 INR"
+        },
+        "activities": [
+            "Trekking",
+            "Photography",
+            "Exploring Telescope House",
+            "Sightseeing"
+        ],
+        "highlights": [
+            "Highest point in the Nilgiri Mountains at 2,623 meters",
+            "Panoramic views of the landscape, valley, and plains",
+            "Telescope House managed by Tamil Nadu Tourism Development Corporation",
+            "Flora includes tall rhododendron trees, flowering sub-alpine shrubs, and herbs",
+            "Home to endangered species of flora and fauna"
+        ],
+        "bestTimeToVisit": "October to January",
+        "howToReach": {
+            "byAir": "Coimbatore Airport (95.5 km away)",
+            "byTrain": "Ooty Railway Station (8 km away)",
+            "byRoad": "Buses and private taxis from Ooty",
+            "trekkingDistance": "Approximately 2 km trek from the base"
+        },
+        "nearbyAttractions": [
+            "Tea Garden",
+            "Botanical Garden",
+            "Rose Garden",
+            "Ooty Lake",
+            "Thunder World"
+        ]
+    },
+    {
+        "name": "Wenlock Downs 9th Mile Shooting Point",
+        "location": "Ooty - Pykara Road, Tamil Nadu, India",
+        "latitude": "11.4118",
+        "longitude": "76.6933",
+        "timings": "9:00 AM to 6:30 PM daily",
+        "entryFee": "10 INR per person",
+        "activities": [
+            "Picnicking",
+            "Photography",
+            "Exploring lush meadows"
+        ],
+        "highlights": [
+            "Lush green meadows that stretch endlessly",
+            "Popular spot for film shooting",
+            "Offers breathtaking and unobstructed views of the Nilgiris"
+        ],
+        "howToReach": {
+            "byRoad": "15 km from Ooty, accessible by road from nearby cities like Bangalore, Coimbatore, and Mysore",
+            "byRail": "Nearest railway station is Mettupalayam; Ooty can be reached via the toy train from there",
+            "byAir": "Nearest airport is Coimbatore Airport, 88 km away"
+        },
+        "nearbyAttractions": [
+            "Pykara Dam",
+            "Kamaraj Sagar Dam"
+        ],
+        "tips": [
+            "Carry plenty of water and wear comfortable shoes for exploring",
+            "Consider visiting early to avoid crowds and for the best photography light"
+        ]
+    },
+    {
+        "name": "Karnataka Siri Horticulture Garden",
+        "location": "Fern Hill, West Mere, Ooty, Tamil Nadu, 643006, India",
+        "entryFee": {
+            "adults": "30 INR",
+            "children": "15 INR",
+            "camera": "50 INR"
+        },
+        "timings": "7:00 am \u2013 7:00 pm daily",
+        "contact": "+919110232527",
+        "highlights": [
+            "Sprawling across 38 acres with Rose, Italian, Tea, Maze, Sunken, and Topiary Gardens",
+            "Home to a variety of colorful and vibrant flowers grown in 50,000 pots",
+            "Features orchids, herb sections, and a maple tree avenue",
+            "Hosts a winter flower show annually"
+        ],
+        "bestTimeToVisit": "October to March",
+        "howToReach": "3 km from Ooty Bus Stand and Railway Station, easily accessible via local transportation"
+    },
+    {
+        "name": "Kandal Cross Shrine",
+        "location": "Outskirts of Ooty, Tamil Nadu",
+        "description": "Known as the 'Jerusalem of the East,' this church features a life-size bronze crucifix and a relic believed to be from Christ's cross. Sacred prayers are offered every Friday.",
+        "timings": "Information not provided",
+        "entryFee": "Information not provided",
+        "activities": [
+            "Prayer",
+            "Sightseeing"
+        ],
+        "highlights": [
+            "Life-size bronze crucifix",
+            "Relic from Christ's cross",
+            "Popular prayer location"
+        ]
+    },
+    {
+        "name": "Emerald Lake",
+        "location": "Emerald Village, The Nilgiris, Ooty, Tamil Nadu, 623704, India",
+        "timings": "8:00 am \u2013 5:00 pm daily",
+        "entryFee": "0 (No Entry Fee)",
+        "activities": [
+            "Exploring tea gardens",
+            "Enjoying the sunset",
+            "Nature photography",
+            "Bird-watching",
+            "Adventure sports",
+            "Shopping"
+        ],
+        "highlights": [
+            "Serene picnic spot",
+            "Picturesque beauty",
+            "Home to a wide variety of flora and fauna",
+            "Ideal for solitude lovers"
+        ]
+    },
+    {
+        "name": "Ooty Golf Course",
+        "location": "Near Wenlock Downs, Ooty, Tamil Nadu",
+        "distanceFromOotyRailwayStation": "4 km",
+        "altitude": "7200 feet",
+        "area": "193.56 acres",
+        "holes": "18",
+        "courseType": "Par 72",
+        "entryFee": "Rs. 1000 per person for Non-Members",
+        "timings": "9 AM - 6 PM",
+        "specialFeatures": [
+            "Owned by the Gymkhana club",
+            "Surrounded by thick woods of eucalyptus, oak, rhododendron, and fir",
+            "Annual amateur golf championship"
+        ],
+        "activities": [
+            "Golfing",
+            "Table tennis",
+            "Billiards"
+        ],
+        "accommodation": "Club provides annex with ten rooms and six huts"
+    }
+]
